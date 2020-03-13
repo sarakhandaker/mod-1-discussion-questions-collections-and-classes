@@ -1,6 +1,6 @@
 ## QUESTION 1
-
-pokemon = [
+def pokemon
+[
   {
     "id": 1,
     "name": "bulbasaur",
@@ -59,7 +59,7 @@ pokemon = [
   ]
 }
 ]
-
+end
 
 # How would you get the url for Bulbasaur's ability?
 # How would you return the first pokemon with base experience over 40?
